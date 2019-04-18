@@ -1,0 +1,1 @@
+/Users/manugarcia/Developer/dev/Kotlin Koans/Introduction/Object expressions/src/Task.kt
